@@ -39,7 +39,7 @@ I’m a **Data Engineer** passionate about building **scalable data pipelines**,
 ---
 
 ## GitHub Stats
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariaAbdelmoumenKermouche&show_icons=true&theme=radical)
+![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakariaKermouche&show_icons=true&theme=radical)
 
 ---
 
